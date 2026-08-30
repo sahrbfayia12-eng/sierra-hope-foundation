@@ -34,7 +34,7 @@ export default function Home() {
             <span className="eyebrow">Sierra Hope Foundation</span>
             <h1>Community-led change, built to last in Sierra Leone.</h1>
             <p>
-              We work alongside communities across Sierra Leone on health, education, and livelihoods; designing programs with the people they serve, not for them. From chiefdom meetings that shape every new initiative to local teams who carry the work forward long after a program launches, our approach starts with listening and stays rooted in trust built over time.
+              Across Sierra Leone, we work hand-in-hand with communities on health, education, and livelihoods; shaped by their voices, sustained by local trust.
             </p>
             <div className="home-hero__actions">
               <Link to="/contact" className="btn btn--ember">Get Involved</Link>
